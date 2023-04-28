@@ -1,0 +1,5 @@
+*.jpg
+*.webp
+
+# ignore all directories with the name webp
+webp/
